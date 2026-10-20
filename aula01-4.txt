@@ -1,0 +1,7 @@
+# Machine Learning - Aprendizagem de Máquina
+
+Classificacao, Regressão, Teoria da Aprendizagem Estatistica para Aprendizagem Supervisionada, Clustering, Sistemas Recomendador
+
+Classificacao e Regressao -> Aprendizagem Supervisionada
+Clustering -> Aprendizagem  Não Supervisionado
+Sistemas de Recomenda~çao -> nenhuma dessas aprendizagem

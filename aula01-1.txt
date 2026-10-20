@@ -1,0 +1,15 @@
+# Ciencia de Dados: uma area em fluxo
+- Data Science is Multidisciplinary
+statstic, pattern, neurocomputing, machine learning, data mining, data bases, visualisations, KDD, AI
+
+Dados e Big Data -
+Banco de dados -> estatisticos
+Big data -> volume, velocidade, variedade e complexidade
+
+Agregação e Estatística (data warehousing e OLAP)
+Indexing Searching e Querying (keyword based search, pattern matching - XML/RDF)
+Descoberta de Conhecimento (data mining e modelagem estatistica)
+
+(curiosidade: Gartner's Hype Cycle - gatilho da inovacao)
+
+Metodo CRISP-DM - CRoss Industry Standard Process for Data Mining

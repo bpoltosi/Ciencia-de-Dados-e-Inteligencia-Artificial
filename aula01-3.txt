@@ -1,0 +1,3 @@
+Matematica (logica matematica)
+
+Boole, Hilbert, Godel, Turing, Church, Bayes

@@ -1,0 +1,7 @@
+# Inteligencia artificial
+
+Moravec's Paradox
+Chinese Room Thought Experiment (String AI vs Weak AI)
+
+Redes Neurais, Redes Bayesianas, Sistemas Nebulosos (fuzzy), Sistemas de Aprendizagem simbolica indutiva,
+Sistemas Baseados em Casos, Algoritmos Genericos, Sistemas Baseados em Redes Neurais, Sistemas de PLN

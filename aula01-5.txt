@@ -1,0 +1,12 @@
+# IA - Paradigmas e Subáreas
+
+Simbólico (IA Classica ou GOFAI) - sistemas especialistas, agentes...
+Estatistico/Probabilisticos - redes bayesianas, sistemas difusos
+Conexionista - redes neurais
+Evolucionista - algoritmos genéticos, vida artificial
+
+Linguagem de problemas de planejamento:
+
+Strips - Stanford Research Institute Problem Solver
+ADL - Action Description Language
+PDDL - Planning Domain Definition Language
